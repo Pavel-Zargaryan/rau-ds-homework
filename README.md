@@ -41,7 +41,6 @@
 * **Контейнер std::forward_list**
 * **Итераторы**
 * **Контейнер std::list**
-<<<<<<< HEAD
 
 ### Занятие 11 — Реализация итераторов в контейнере ForwardList
 * **Библиотека \<algorithm\>**
@@ -106,5 +105,3 @@
 * **std::hash**
 * **Контейнер std::unordered_set**
 * **Контейнер std::unordered_map**
-=======
->>>>>>> f247bc9 (Forward list (#8))
