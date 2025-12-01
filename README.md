@@ -122,6 +122,4 @@
 * **Smart pointers**
 
 ### Занятие 24 — Алгоритмические задачи с использованием Set и Map [\[Задачи→\]](algo_set_map.md)
-* **Function objects (Functors)**
-* **Lambdas**
-* **Smart pointers**
+* **CSES**
