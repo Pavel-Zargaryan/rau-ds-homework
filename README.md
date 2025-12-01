@@ -115,3 +115,13 @@
 ### Занятие 21,22 — Реализация контейнера Set
 * **AVL дерево**
 * **Итераторы дерева**
+
+### Занятие 23 — Умные указатели в C++
+* **Function objects (Functors)**
+* **Lambdas**
+* **Smart pointers**
+
+### Занятие 24 — Алгоритмические задачи с использованием Set и Map [\[Задачи→\]](algo_set_map.md)
+* **Function objects (Functors)**
+* **Lambdas**
+* **Smart pointers**
