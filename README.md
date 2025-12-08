@@ -129,3 +129,7 @@
 
 ### Занятие 25 — Очередь с приоритетом в STL [\[Задачи→\]](priority_queue.md)
 * **Контейнер std::priority_queue**
+
+### Занятие 26 — Реализация структуры MaxHeap [\[Задачи→\]](max_heap.md)
+* **siftUp и siftDown**
+* **Heapify**
